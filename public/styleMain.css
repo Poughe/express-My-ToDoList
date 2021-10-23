@@ -1,0 +1,23 @@
+body{
+    padding-top:80px;
+    word-wrap:break-word;
+    background: rgb(26, 27, 28);
+  }
+  img{
+    height: 200px;
+  }
+  h1{
+    color: white;
+  }
+  label{
+    color: white;
+  }
+  p{
+    color: white;
+  }
+  .jumbotron{
+    background-color: rgb(151,168,177);
+    border: 3px solid white;
+  }
+
+
