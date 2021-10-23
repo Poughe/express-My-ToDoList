@@ -1,7 +1,7 @@
 # Express- My ToDoList
 
 ![alt tag](https://i.imgur.com/Cb7oRfm.png)
-![alt tag](**screenshot.png**)
+![alt tag](https://i.imgur.com/Qmnanw6.png)
 
 # Tech Used:
 
